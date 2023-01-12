@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hemanthrudra
-- 👀 I’m interested in Big Data Engineering & Analytics
+- 👀 I’m looking for opportunities in Big Data Engineering & Analytics
 - 🌱 I’m currently learning Big data Tools
 - 💞️ I’m looking to collaborate on Big Data
 - 📫 How to reach me hemanthrudra29@gmail.com 
